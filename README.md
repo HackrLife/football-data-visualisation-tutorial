@@ -1,5 +1,5 @@
 # football-data-visualisation-tutorial
-# 🔵🔴 Football Data Visualization Tutorial
+# Football Data Visualization Tutorial
 
 ## Creating Professional Football Visualizations with Python
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Quick Start (Google Colab)
+## Quick Start (Google Colab)
 
 ### Option 1: Upload to Colab (Recommended)
 
@@ -35,7 +35,7 @@ If you've hosted these files on GitHub:
 
 ---
 
-## 📊 What You'll Build
+## What You'll Build
 
 ### Bar Charts (5)
 
@@ -69,7 +69,7 @@ If you've hosted these files on GitHub:
 
 ---
 
-## 📚 What You'll Learn
+## What You'll Learn
 
 - ✅ Loading and cleaning FBref data with Pandas
 - ✅ Creating pie charts with `matplotlib`
@@ -84,7 +84,7 @@ If you've hosted these files on GitHub:
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 The notebook uses standard Python data science libraries that come pre-installed in Google Colab:
 
@@ -115,7 +115,7 @@ No additional installation required!
 
 ---
 
-## 🎨 Color Palette Used
+## Color Palette Used
 
 | Color           | Hex Code  | Usage                  |
 | --------------- | --------- | ---------------------- |
@@ -129,7 +129,7 @@ Feel free to customize these for your own team!
 
 ---
 
-## 📊 Data Source
+## Data Source
 
 Data is from [FBref.com](https://fbref.com) — Barcelona La Liga 2025-26 season through Matchday 19.
 
@@ -143,7 +143,7 @@ Data is from [FBref.com](https://fbref.com) — Barcelona La Liga 2025-26 season
 
 ---
 
-## 💡 Tips for Customization
+## Tips for Customisation
 
 ### Change Teams
 Replace the data in Section 4 with your team's stats.
@@ -166,7 +166,7 @@ FBref has many more stats! Try:
 
 ---
 
-## 🙏 Credits
+## Credits
 
 **Created by:** HackrLife  
 **Newsletter:** [Barça Futbol](https://barcafutbol.substack.com)  
@@ -174,7 +174,7 @@ FBref has many more stats! Try:
 
 ---
 
-## 📬 Get More Content
+## Get More Content
 
 For weekly tactical analysis, data visualizations, and Barcelona insights:
 
